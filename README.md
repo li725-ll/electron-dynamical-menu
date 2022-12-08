@@ -1,9 +1,9 @@
 # electron-dynamical-menu
 Electron dynamically generates menus
 # run
-```
-npm i
 ```shell
+npm i
+```
 
 ```shell
 npm run start
